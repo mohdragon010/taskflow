@@ -1,4 +1,4 @@
-# TaskFlow 📝
+ # TaskFlow 📝
 
 A simple and secure task management application built with Next.js and Firebase.
 Users can create, manage, and track their tasks with real-time updates and Google authentication.
@@ -9,7 +9,7 @@ Users can create, manage, and track their tasks with real-time updates and Googl
 
 - Authentication
   - Email & Password
-  - Google Sign-In (Popup on desktop / Redirect on mobile)
+  - Google Sign-In
 - Tasks CRUD
   - Create new tasks
   - Read tasks (user-specific)
