@@ -30,9 +30,6 @@ import { useAuth } from "@/hooks/useAuth"
 
 const navLinks = [
     { href: "/", label: "Home" },
-    { href: "/tasks", label: "Tasks" },
-    { href: "/analytics", label: "Analytics" },
-    { href: "/settings", label: "Settings" },
 ]
 
 export function Navbar() {
