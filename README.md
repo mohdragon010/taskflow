@@ -9,7 +9,7 @@ Users can create, manage, and track their tasks with real-time updates and Googl
 
 - 🔐 Authentication
   - Email & Password
-  - Google Sign-In (Popup / Redirect for mobile)
+  - Google Sign-In
 
 - ✅ Tasks CRUD
   - Create new tasks
